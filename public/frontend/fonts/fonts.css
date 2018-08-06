@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'GillSans';
+    src: url('GillSansLight.eot');
+    src: url('GillSansLight.eot') format('embedded-opentype'),
+         url('GillSansLight.woff2') format('woff2'),
+         url('GillSansLight.woff') format('woff'),
+         url('GillSansLight.ttf') format('truetype'),
+         url('GillSansLight.svg#GillSansLight') format('svg');
+	font-weight: 300;
+}
+@font-face {
+    font-family: 'GillSans';
+    src: url('GillSansRegular.eot');
+    src: url('GillSansRegular.eot') format('embedded-opentype'),
+         url('GillSansRegular.woff2') format('woff2'),
+         url('GillSansRegular.woff') format('woff'),
+         url('GillSansRegular.ttf') format('truetype'),
+         url('GillSansRegular.svg#GillSansRegular') format('svg');
+	font-weight: 400;
+}
+
+@font-face {
+    font-family: 'GillSans';
+    src: url('GillSansSemiBold.eot');
+    src: url('GillSansSemiBold.eot') format('embedded-opentype'),
+         url('GillSansSemiBold.woff2') format('woff2'),
+         url('GillSansSemiBold.woff') format('woff'),
+         url('GillSansSemiBold.ttf') format('truetype'),
+         url('GillSansSemiBold.svg#GillSansSemiBold') format('svg');
+	font-weight: 600;
+}
+
+@font-face {
+    font-family: 'CormorantGaramondLight';
+    src: url('CormorantGaramondLight.eot');
+    src: url('CormorantGaramondLight.eot') format('embedded-opentype'),
+         url('CormorantGaramondLight.woff2') format('woff2'),
+         url('CormorantGaramondLight.woff') format('woff'),
+         url('CormorantGaramondLight.ttf') format('truetype'),
+         url('CormorantGaramondLight.svg#CormorantGaramondLight') format('svg');
+}
